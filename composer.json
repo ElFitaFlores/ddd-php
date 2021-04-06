@@ -22,7 +22,8 @@
     "behat/behat": "^3.8",
     "friends-of-behat/mink-extension": "^2.5",
     "friends-of-behat/symfony-extension": "^2.2",
-    "behat/mink-browserkit-driver": "^1.3"
+    "behat/mink-browserkit-driver": "^1.3",
+    "phpunit/phpunit": "^9.5"
   },
   "autoload": {
     "psr-4": {
