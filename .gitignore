@@ -6,4 +6,4 @@
 /vendor/
 
 .idea
-.cache
+*.cache
